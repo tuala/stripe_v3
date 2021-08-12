@@ -1,5 +1,5 @@
 {
-    "name": "combodo/stripe-v3",
+    "name": "tuala/stripe-v3",
     "description": "Provide SCA compatible Stripe integration.",
     "keywords": ["payment", "stripe", "sca", "payum"],
     "license": "MIT",
